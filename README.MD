@@ -1,0 +1,1 @@
+Esse repositório serve para as aulas de gestão e configuração de software onde são testados os comandos git
